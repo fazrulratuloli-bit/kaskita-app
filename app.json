@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "KasKita",
+    "slug": "kaskita-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {"package": "com.kaskita.kaskelas", "versionCode": 1},
+    "splash": {"backgroundColor": "#f4f8f5"}
+  }
+}
